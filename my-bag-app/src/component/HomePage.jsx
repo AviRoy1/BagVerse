@@ -35,7 +35,7 @@ const HomePage = () => {
       rating: 4.8,
       reviews: 342,
       image: "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500",
-      model: `${import.meta.env.BASE_URL}models/school_bag.glb`, // Path to 3D model
+      model: `${import.meta.env.BASE_URL}models/steampunk_bag.glb`, // Path to 3D model
       colors: ["blue", "red", "green", "purple"],
       features: ["Water Resistant", "Multiple Compartments", "Ergonomic Design", "Anti-theft Zippers"],
       description: "Perfect for adventurous students who need durability and style."
@@ -48,7 +48,7 @@ const HomePage = () => {
       rating: 4.9,
       reviews: 128,
       image: "https://images.unsplash.com/photo-1581605405669-fcdf81165afa?w=500",
-      model: `${import.meta.env.BASE_URL}models/school_bag.glb`, // Path to 3D model
+      model: `${import.meta.env.BASE_URL}models/steampunk_bag.glb`, // Path to 3D model
       colors: ["black", "navy", "gray", "red"],
       features: ["Laptop Compartment", "Anti-Theft Zippers", "Reflective Strips", "USB Charging Port"],
       description: "Elite performance for tech-savvy students with modern needs."
@@ -61,7 +61,7 @@ const HomePage = () => {
       rating: 4.7,
       reviews: 256,
       image: "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?w=500",
-      model: `${import.meta.env.BASE_URL}models/school_bag.glb`, // Path to 3D model
+      model: `${import.meta.env.BASE_URL}models/doctors_bag.glb`, // Path to 3D model
       colors: ["pink", "purple", "blue", "green"],
       features: ["Lightweight", "Easy Clean", "Adjustable Straps", "Book Organizer"],
       description: "Lightweight companion for everyday school adventures."
